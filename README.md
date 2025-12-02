@@ -1,2 +1,0 @@
-# BA_course
-hometasks
